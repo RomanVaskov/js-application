@@ -1,0 +1,26 @@
+{
+  "name": "excel-app",
+  "version": "1.0.0",
+  "description": "vanilla js",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://RomanVaskov@bitbucket.org/RomanVaskov/js-application.git"
+  },
+  "keywords": [
+    "js",
+    "excel"
+  ],
+  "author": "Roman Vaskov <romavaskov@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/RomanVaskov/js-application#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
